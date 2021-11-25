@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch jdbc1",
+            "request": "launch",
+            "mainClass": "jdbc.jdbc1",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch readingfile",
+            "request": "launch",
+            "mainClass": "files.readingfile",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch writingtofiledemo",
+            "request": "launch",
+            "mainClass": "files.writingtofiledemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashtableDemo",
+            "request": "launch",
+            "mainClass": "DataStructures.hashtableDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch createfiledemo",
+            "request": "launch",
+            "mainClass": "createfiledemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch createfile",
+            "request": "launch",
+            "mainClass": "mypackage.files.createfile",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch createFile",
+            "request": "launch",
+            "mainClass": "mypackage.files.createFile",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestSynchronization2",
+            "request": "launch",
+            "mainClass": "TestSynchronization2",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntercommunicationDemo",
+            "request": "launch",
+            "mainClass": "IntercommunicationDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch intercommunicationDemo",
+            "request": "launch",
+            "mainClass": "intercommunicationDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch threadextenddemo",
+            "request": "launch",
+            "mainClass": "threadextenddemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashtableDemo",
+            "request": "launch",
+            "mainClass": "hashtableDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayClassDemo",
+            "request": "launch",
+            "mainClass": "arrayClassDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringToken",
+            "request": "launch",
+            "mainClass": "stringToken",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch stackDemo",
+            "request": "launch",
+            "mainClass": "stackDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch linkedhashsetDemo",
+            "request": "launch",
+            "mainClass": "linkedhashsetDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashsetDemo",
+            "request": "launch",
+            "mainClass": "hashsetDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListDemo",
+            "request": "launch",
+            "mainClass": "LinkedListDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo",
+            "request": "launch",
+            "mainClass": "ArrayListDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayList",
+            "request": "launch",
+            "mainClass": "ArrayList",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch singlelinkedlist",
+            "request": "launch",
+            "mainClass": "DataStructures.singlelinkedlist",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch multipleCatchdemo",
+            "request": "launch",
+            "mainClass": "multipleCatchdemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch trycatchdemo",
+            "request": "launch",
+            "mainClass": "trycatchdemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch staticblock",
+            "request": "launch",
+            "mainClass": "staticblock",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch cretedexception",
+            "request": "launch",
+            "mainClass": "cretedexception",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch interfacdemo",
+            "request": "launch",
+            "mainClass": "interfacdemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceDemo",
+            "request": "launch",
+            "mainClass": "InterfaceDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractDemo",
+            "request": "launch",
+            "mainClass": "AbstractDemo",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynamicMethodDispatch",
+            "request": "launch",
+            "mainClass": "DynamicMethodDispatch",
+            "projectName": "java programms_83924366"
+        },
+        {
+            "type": "java",
+            "name": "Launch shankariUma",
+            "request": "launch",
+            "mainClass": "shankariUma",
+            "projectName": "java programms_83924366"
+        }
+    ]
+}
